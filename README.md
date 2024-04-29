@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Daniel Nguyen</h1>
-<h3 align="center"> Molecular & Cell Biology student @ Texas A&M minoring in Computer Science & Bioinformatics </h3>
+<h3 align="center"> Molecular & Cell Biology student @ Texas A&M minor in Computer Science & Bioinformatics </h3>
 <p align="center"> Current bioinformatician lab assistant in Dr. Wenhe Li's Lab and conducting independent research in Dr. Rodolfo Aramayo's lab
 <h3 align="center">Connect with me!</h3>
 <p align="center">
