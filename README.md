@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm Daniel Nguyen</h1>
 <h3 align="center">Molecular & Cell Biology student @ Texas A&M, minor in Computer Science & Bioinformatics</h3>
-<p align="center">Current bioinformatician lab assistant in Dr. Wenhe Li's Lab and conducting independent research in Dr. Rodolfo Aramayo's lab</p>
+<p align="center">Current bioinformatician lab assistant in Dr. Wanhe Li's Lab and conducting independent research in Dr. Rodolfo Aramayo's lab</p>
 <h3 align="center">Programming Languages I Know</h3>
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" height="30" /></a>
